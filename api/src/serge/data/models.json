@@ -283,7 +283,7 @@
             },
             {
                 "name": "GPT4AlpacaLoRA-13B",
-                "repo": "TheBloke/gpt4-alpaca-lora-13B-GGML",
+                "repo": "TheBloke/gpt4-x-alpaca-13B-GGML",
                 "files": [
                     {
                         "name": "q8_0",
