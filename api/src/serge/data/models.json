@@ -25,6 +25,27 @@
                 ]
             },
             {
+                "name": "Facebook-LLaMA2-13B",
+                "repo": "meta-llama/Llama-2-13b-chat-hf",
+                "files": [
+                    {
+                        "name": "q4_0",
+                        "filename": "pytorch_model-00001-of-00003.bin",
+                        "disk_space": 8140000000.0
+                    },
+                    {
+                        "name": "q5_0",
+                        "filename": "pytorch_model-00002-of-00003.bin",
+                        "disk_space": 8140000000.0
+                    },
+                    {
+                        "name": "q6_0",
+                        "filename": "pytorch_model-00003-of-00003.bin",
+                        "disk_space": 8140000000.0
+                    }
+                ]
+            },
+            {
                 "name": "Chronos-Hermes-13B",
                 "repo": "TheBloke/chronos-hermes-13B-GGML",
                 "files": [
